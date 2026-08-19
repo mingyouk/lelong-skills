@@ -1,0 +1,10 @@
+{
+  "name": "lelong-skills",
+  "description": "Lelong lelong! A bazaar of AI agent skills — made in Malaysia 🇲🇾",
+  "plugins": [
+    {
+      "name": "lelong-skills",
+      "source": "https://github.com/mingyouk/lelong-skills"
+    }
+  ]
+}
