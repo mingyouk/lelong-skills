@@ -15,7 +15,7 @@
     "malaysia"
   ],
   "skills": [
-    "skills/media/4K-old-photo-portrait-restoration",
-    "skills/rednote/rednote-article-enhancer"
+    "./skills/media/4K-old-photo-portrait-restoration",
+    "./skills/rednote/rednote-article-enhancer"
   ]
 }
