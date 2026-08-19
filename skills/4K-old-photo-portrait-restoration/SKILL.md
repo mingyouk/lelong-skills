@@ -1,7 +1,7 @@
 ---
 name: 4K-old-photo-portrait-restoration
 description: >
-  Load when the user asks to restore, repair, enhance, or upscale old family
+  Use when the user asks to restore, repair, enhance, or upscale old family
   photos or portraits — including fixing scratches, tears, stains, fading,
   blur, or discoloration in vintage photographs. Do NOT load for AI-generated
   images, modern digital photo editing, colorization of B&W photos without

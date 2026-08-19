@@ -1,10 +1,11 @@
 ---
 name: rednote-article-enhancer
 description: >
-  Load when the user asks to review, revise, or enhance an existing
+  Use when the user asks to review, revise, or enhance an existing
   小红书/RedNote/XHS article — including sharing a draft or a rednote.com URL
-  for feedback. Do NOT load for writing a new article from scratch, analyzing
-  trends, or translating.
+  for feedback, or rewriting/converting an existing article into 长文
+  (long-form) format. Do NOT load for writing a new article from scratch,
+  analyzing trends, or translating.
 ---
 
 # RedNote Article Enhancer
@@ -97,6 +98,29 @@ If in doubt: ask yourself "does this emoji tell the reader something useful?"
 If no, skip it.
 
 **Avoid:** indentation, `...` as divider, purely decorative emoji.
+
+**Long-form notes（长文）:**
+
+Use the 长文 format when content exceeds roughly 1000 characters — too long
+for a regular image-text post. Platform constraints (per 2026.08 information,
+（以实际编辑器为准）):
+
+- Title ≤20 chars — same limit as regular posts
+- Body up to 6000 characters, including spaces
+- Partial Markdown supported — `#` subheadings, `-` lists
+- 「一键排版」 auto-splits the long-form into an image sequence; up to 10
+  images per post （未经验证）
+- Music not supported （未经验证）
+
+Formatting:
+- Use Markdown `#` subheadings instead of `━━━━━━━━━━━━━━` dividers; use `-`
+  lists instead of `·` bullets
+- Keep double empty lines between sections as insurance in case the editor
+  strips them （未经验证）
+
+The relaxed length limit doesn't change content principles — concise writing,
+no fabricated details, time-sensitive disclaimers, and functional emoji all
+still apply.
 
 ---
 
