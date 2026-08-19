@@ -1,10 +1,30 @@
 {
   "name": "lelong-skills",
-  "description": "Lelong lelong! A bazaar of AI agent skills — made in Malaysia 🇲🇾",
+  "id": "lelong-skills",
+  "owner": {
+    "name": "Kwong Ming You"
+  },
+  "metadata": {
+    "description": "Lelong lelong! A bazaar of AI agent skills — made in Malaysia 🇲🇾",
+    "version": "1.0.0"
+  },
   "plugins": [
     {
       "name": "lelong-skills",
-      "source": "https://github.com/mingyouk/lelong-skills"
+      "source": "./",
+      "description": "Lelong lelong! A bazaar of AI agent skills — made in Malaysia 🇲🇾",
+      "version": "1.0.0",
+      "author": {
+        "name": "Kwong Ming You"
+      },
+      "keywords": [
+        "skills",
+        "ai-agent",
+        "marketplace",
+        "productivity",
+        "malaysia"
+      ],
+      "category": "skills"
     }
   ]
 }
