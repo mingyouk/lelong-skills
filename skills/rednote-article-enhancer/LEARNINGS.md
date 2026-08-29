@@ -46,3 +46,35 @@ long-tail search pattern for a niche how-to. Insights to carry into future draft
    engagement with growing views is normal (problem-solvers don't like, they
    leave). Don't advise deletion or aggressive re-posting for documentation-
    first posts.
+
+---
+
+## 2026-08-29 — Analytics validation (cover CTR is the lever, audience profile)
+
+Official 笔记诊断 data for the same note at ~546 views:
+
+**Traffic split:** 搜寻 49.5% / 首页推荐 46.6% / 关注 0.2% / 其他 3.7%.
+Search and feed are the two engines — cover CTR gates the feed half.
+
+**Metrics vs 同类中位数:**
+- 封面点击率 13.3% vs 18.8% (beats only 13% of peers) — **the #1 actionable
+  lever**. Plain white product covers underperform; next cover: bigger/bolder
+  title text, emotional hook words (e.g. "周末必掉线？"), stronger contrast.
+- 互动率 1.3% vs 5.4% — expected when ~50% traffic is search; search visitors
+  don't like/save. Don't treat as failure or chase likes.
+- 内容丰富度 4.0 (beats 99%) / 平均观看时长 10.8s vs 9.8s (beats 55%) —
+  the documentation-first style is the right base. Never sacrifice depth for
+  virality.
+- 涨粉 1 vs 中位 0 — tutorial accounts grow slowly; normal.
+
+**Audience profile:** 25–34 (55%) + 35–44 (24%) = 79% homeowner band; 海外
+(overseas) 69%. Niche home-tech content attracts precisely matched readers —
+search traffic = exact matches, not waste. Keep writing for this audience.
+
+**Actionable rules for next drafts:**
+1. Cover is part of the note — design it like a headline (big text, hook,
+   contrast), not a plain product shot. If cover tooling exists, run it.
+2. Comment hook matters when interaction is the goal — a pinned comment with a
+   "save-me crib" pulls interaction without changing the note itself.
+3. When advising on published notes: don't recommend deletion/repost for
+   engagement — the only edit worth trying is replacing the cover.
