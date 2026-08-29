@@ -111,3 +111,32 @@ written with the same skill:
    people find the note; that's "helping", not traffic-chasing.
 4. Audience tags (海外 98% female 74% for travel; 69% overseas for tech) are
    useful to calibrate future topic choices — not to chase engagement.
+
+---
+
+## 2026-08-29 — First-skill-output post-mortem (the 5-second rule)
+
+The FIRST note written with this skill (Tromsø photo-spot guide, GPS
+coordinates, published 2026-04) underperformed badly: <100 views after 4+
+months, no analytics (platform threshold). Partial metrics received:
+
+- 封面点击率 13.5% — essentially IDENTICAL to the other two notes (13.3%,
+  15.2%). Cover was never the problem across all three.
+- 平均观看时长 **5 秒** — vs 23.1s (travel) / 10.8s (tech-fix). People clicked
+  and left instantly.
+- 互动率 4.3% — not bad for the tiny sample; those who stayed found it useful.
+
+**Root cause:** the note's VALUE wasn't visible in the first seconds. An
+11-spot GPS guide led with ordinary first photos — readers couldn't tell
+"this is a map of where to shoot" within 5 seconds.
+
+**The 5-second rule (new skill rule):**
+> 第一张图 = 笔记的开场白。The first image must communicate the note's value
+> within 5 seconds. For spot-guides: first image = spot photo + coordinates /
+> map overview, not a plain scenic shot. Cover gets the click; image #1 keeps
+> the reader. When reviewing drafts, check image #1 through "would a stranger
+> know what this note gives them in 5 seconds?"
+
+**Also logged:** this note is the "skill v1 era" baseline. If rewritten with
+current skill rules (search words, cover recognition, 5-sec first image) and
+re-published, it becomes a natural A/B test of the skill's evolution.
