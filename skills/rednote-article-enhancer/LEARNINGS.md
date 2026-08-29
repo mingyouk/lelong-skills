@@ -83,3 +83,31 @@ and saves answer that. Interaction rate and follower growth are noise.
 3. Don't recommend deletion/repost or engagement chasing for published notes.
    The note already did its job: it documented the fix. People who need it
    will keep finding it via search.
+
+---
+
+## 2026-08-29 — Cross-note comparison: content type determines traffic path
+
+Second note's 笔记诊断 data (travel note 昆达山+亚庇, 18-image itinerary) vs
+the Philips tech-fix note — a controlled comparison of two content types
+written with the same skill:
+
+| Metric | Travel note | Tech-fix note | Takeaway |
+|---|---|---|---|
+| Traffic source | feed 87.7% | search 49.5% | Content type picks its own engine |
+| 互动率 | 9.3% (beats 73%) | 1.3% | Travel invites interaction; problem-solving doesn't |
+| Avg watch time | 23.1s (beats 90%) | 10.8s | Visual itineraries hold attention longer |
+| 内容丰富度 | 5.0 (beats 99%) | 4.0 (beats 99%) | Documentation style scores top on BOTH |
+| 涨粉 | 0 | 1 | Both ≈ median 0; follower growth is noise |
+
+**Rules for the skill:**
+1. **Judge a note by its own content type.** Engagement norms differ by
+   category — never compare a how-to's 互动率 to a travel note's, or advise
+   fixes based on a metric the format doesn't target.
+2. **内容丰富度 is the stable signal.** Both notes hit the 99th percentile —
+   the documentation-first style is the skill's core value. Protect it.
+3. **Travel/visual notes can still gain from search keywords** (攻略-type
+   searches exist) — adding searchable place names to title/desc helps more
+   people find the note; that's "helping", not traffic-chasing.
+4. Audience tags (海外 98% female 74% for travel; 69% overseas for tech) are
+   useful to calibrate future topic choices — not to chase engagement.
