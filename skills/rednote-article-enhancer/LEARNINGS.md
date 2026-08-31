@@ -105,6 +105,13 @@ written with the same skill:
 | 内容丰富度 | 5.0 (beats 99%) | 4.0 (beats 99%) | Documentation style scores top on BOTH |
 | 涨粉 | 0 | 1 | Both ≈ median 0; follower growth is noise |
 
+**Audience interest overlap (both notes, final):** 生活记录 = 11% on BOTH
+notes — the ONLY interest shared across the two different topics. Travel
+readers skew 美食 15% / 旅游 9%; home-tech readers skew 家居家装 12%.
+**The documentation-style content attracts life-logging content consumers —
+that is the audience base. 内容丰富度 99th percentile on both notes and the
+11% 生活记录 overlap are the same fact in two views.** Protect the style.
+
 **Rules for the skill:**
 1. **Judge a note by its own content type.** Engagement norms differ by
    category — never compare a how-to's 互动率 to a travel note's, or advise
