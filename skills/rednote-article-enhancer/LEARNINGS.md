@@ -69,8 +69,13 @@ Search and feed are the two engines — cover CTR gates the feed half.
 - 涨粉 1 vs 中位 0 — **not a goal.** Tutorial notes are documentation, not
   growth content.
 
-**Audience profile:** 25–34 (55%) + 35–44 (24%) = 79% homeowner band; 海外
-(overseas) 69%. Search traffic = precisely matched readers who need the note.
+**Audience profile (final, corrected):** 25–34 (55%) + 35–44 (25%) = 80%
+homeowner band; female 57%; 海外 (overseas) 65%; interests: 家居家装 12% #1,
+生活记录 11%, 科技数码 only 4% — **readers are homeowners, not techies. The
+note worked because it's a HOME problem (lock, after-sales), not a tech topic.
+Wrap home-tech content in life language; keep data-driven detail as the
+"helping" layer, not the identity of the post.** Search traffic = precisely
+matched readers who need the note.
 Read all metrics through one lens only: **"is the note finding the people it
 can help, and is it helpful when they find it?"** — search share, watch time,
 and saves answer that. Interaction rate and follower growth are noise.
