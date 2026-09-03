@@ -112,6 +112,22 @@ readers skew 美食 15% / 旅游 9%; home-tech readers skew 家居家装 12%.
 that is the audience base. 内容丰富度 99th percentile on both notes and the
 11% 生活记录 overlap are the same fact in two views.** Protect the style.
 
+**读者画像 final:** 80% homeowner band, 57% female, overseas 65%; interests
+家居家装 12% #1, 生活记录 11%, 科技数码 only 4% — readers are homeowners not
+techies; wrap home-tech in life language. 9/03 XHS AI diagnostic (内容深度
+AI 诊断): watch 9.0s vs 同类中位 10.5s (超过 ±41% 同类). Its归因 & advice,
+aligning with our own analysis:
+- 强工具属性 content without visual anchors → reader gets the version number
+  and leaves. First image for tool-type notes must lead with the ANSWER
+  (关键版本号/联系邮箱), not context.
+- Advice we're NOT acting on for live notes (documentation-first: note is
+  done once recorded; updates only when new info/problems arise) — but the
+  rules are kept for NEXT notes:
+  1. 图文解说: annotate screenshots/emails (arrows/notes on 关键版本号,
+     联系邮箱) to guide eye and hold attention.
+  2. 避坑总结 ending: end tool notes with a 注意事项/避坑总结 para
+     (升级前备份数据 / 注意蓝牙连接状态) — adds实用厚度, extends watch.
+
 **Rules for the skill:**
 1. **Judge a note by its own content type.** Engagement norms differ by
    category — never compare a how-to's 互动率 to a travel note's, or advise
