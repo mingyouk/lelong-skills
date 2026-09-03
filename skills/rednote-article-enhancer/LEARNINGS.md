@@ -142,6 +142,51 @@ aligning with our own analysis:
 
 ---
 
+## 2026-09-03 — Both notes' full XHS AI diagnostic (platform cross-validates methodology)
+
+Ran XHS's built-in AI 笔记诊断 for BOTH notes (all 5 dimensions each).
+The platform's diagnostics — their causes AND their advice — confirm our
+methodology on nearly every point. That's the strongest external validation
+the skill can get (platform AI, not our own analysis):
+
+| Metric | 昆达山 (travel) | Philips (tool) | Platform takeaway |
+|---|---|---|---|
+| 内容丰富度 | **5.0 / 99%** | **4.0 / 99%** | Both 99th pct — doc-style flagged on BOTH |
+| 内容深度 | 23.1s / 88% | 9.0s / 41% | Itinerary slows reading; tool note exits after answer |
+| 互动率 | 9.3% / 72% | 1.2% / 9% | Collect/comments/people-photo vs solve-and-leave |
+| 封面点击率 | 15.2% / 41% | 13.3% / 11% | Platform: use scenery photo cover for travel; bold/contrast for tool |
+| 笔记涨粉 | 0 | 1 | Both independent notes; 人设/系列 is the catch |
+
+**Explicit platform endorsements of the documentation-first style:**
+- 昆达山: 「继续保持这种高信息密度的创作风格」 (时间轴+清单 structure praised)
+- Philips: 「继续保持这种『提出问题-展示证据-给出结果』的清晰结构」(三图逻辑闭环 praised)
+→ Platform AI says KEEP the style for both. That is the strongest signal the
+skill's purpose (记录为主) is on the right track.
+
+**Rules added (cross-validated with our earlier rules):**
+1. **图片标注 rule confirmed by TWO independent diagnostics** (内容深度 +
+   内容丰富度 both建议 箭头/圈注 for tool notes) — already in our rules.
+2. **Cover design differs by content type**: tool notes → 识别 (model+symptom
+   text); travel notes → 视觉冲击 (scenery photo, title overlay). One rule
+   does NOT fit both formats. (This refines the earlier "cover serves
+   recognition" rule — that's the tool-note variant.)
+3. **互动引导 phrasing**: two independent diagnostics suggest文末互动提问
+   ("大家去亚庇最推荐哪家海鲜楼?" / "有遇到类似蓝牙掉线吗?") as the ONLY
+   content-level lever for low-engagement tool notes. Optional for doc-first
+   style — engagement is not a goal; but for notes where interaction matters,
+   a closing question is the cheap, one-line lever.
+4. **人设/系列 is the only growth path** (both diagnostics): 强化「智能家居
+   避坑 xxx」/「旅行攻略无踩雷」标签 + 关联系列笔记. Not a goal for doc-first,
+   but relevant when a series (and the world wants one).
+
+**Note on platform advice vs our principles:** some suggestions conflict with
+doc-first style (加个人感悟/人设标签). Evaluate against the core principle,
+not the metric: advices that help the note HELD its value (structure, saves,
+clarity) → keep. Advices that optimize meta-metrics (涨粉/互动) → optional at
+best. Following the principle, not the algorithm.
+
+---
+
 ## 2026-08-29 — First-skill-output post-mortem (the 5-second rule)
 
 The FIRST note written with this skill (Tromsø photo-spot guide, GPS
