@@ -254,3 +254,46 @@ post-mortem that "skill evolution raised the floor":**
 **When advising on expected outcomes:** never promise views/followers from
 skill-based rewriting. Promise: clearer structure, higher 内容丰富度, better
 saves pull for reference content, and platform-recognized depth.
+
+---
+
+## 2026-09-07 — The 5,186-view note: decision-comparison content type (第三形态)
+
+Best-performing note EVER (5,186 views / 44 likes / 32 saves, ~15 months):
+「在🇸🇬办个🇨🇳电话号码」— SG telecoms compared for getting a China phone
+number (CMLink ❌ / CUniq 300GB ❌ / CUniq 500GB ✅). Recovered via user
+paste (note is private/hidden — share token dead, not in public profile).
+
+**Why it outperformed everything:**
+1. **刚需大题材** — SG Chinese needing a CN number for WeChat/Alipay/travel.
+   Audience pool dwarfs the lock-fix niche. (Third confirmation: topic size
+   decides reach, not skill.)
+2. **❌❌✅ decision structure** — verdict-first comparison, zero homework for
+   the reader → "save-and-use" content. Concrete S$ prices make it save-worthy.
+3. **Evergreen maintenance** — date disclaimer (截至 2025.10.08) + closing
+   "我会持续更新". The note was EDITED over months; updated notes get
+   re-distributed by the feed and keep search value for years. ← NEW RULE
+   candidate: for data/price/comparison notes, schedule updates and say
+   "会持续更新"; freshness keeps the note alive.
+4. **@brand mentions** (CMLinkSG/CUniqSG) — pulls brand-side traffic.
+
+**Content-type lineage (important meta-fact):** the skill codified the
+user's NATURAL pre-existing style — the 5 "pre-skill" notes already used the
+format (date disclaimer, ━━━, 1️⃣, ✅❌) and 玩转🇨🇳 titles literally appear as
+examples in the skill's own Title Rules. The skill was reverse-engineered
+from a session that analyzed these high-view notes. Skill = formalized user
+style, not an imposed one.
+
+**Three high-value forms now documented:**
+1. 旅行行程单 (itinerary) — feed-driven, high saves (昆达山 收藏/赞 1.8)
+2. 教程/避坑 (how-to/fix) — search long-tail (Philips 907 views and climbing)
+3. **决策对比 (decision-comparison)** — evergreen, biggest audience pool
+   (电话号码 note 5,186 views) — ❌❌✅ verdicts + concrete prices +
+   sustained updates + @brands
+
+**Rules for the skill:**
+1. When the topic is a recurring-purchase/service decision (telecom, banking,
+   insurance, hotels), suggest the decision-comparison form: ❌❌✅ verdicts,
+   concrete prices, date disclaimer, @brand mentions, "会持续更新" closing.
+2. For data/price notes, note the date AND a maintenance cue — evergreen
+   notes compound search value; a static price note rots.
