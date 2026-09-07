@@ -112,6 +112,22 @@ readers skew 美食 15% / 旅游 9%; home-tech readers skew 家居家装 12%.
 that is the audience base. 内容丰富度 99th percentile on both notes and the
 11% 生活记录 overlap are the same fact in two views.** Protect the style.
 
+**读者画像 final:** 80% homeowner band, 57% female, overseas 65%; interests
+家居家装 12% #1, 生活记录 11%, 科技数码 only 4% — readers are homeowners not
+techies; wrap home-tech in life language. 9/03 XHS AI diagnostic (内容深度
+AI 诊断): watch 9.0s vs 同类中位 10.5s (超过 ±41% 同类). Its归因 & advice,
+aligning with our own analysis:
+- 强工具属性 content without visual anchors → reader gets the version number
+  and leaves. First image for tool-type notes must lead with the ANSWER
+  (关键版本号/联系邮箱), not context.
+- Advice we're NOT acting on for live notes (documentation-first: note is
+  done once recorded; updates only when new info/problems arise) — but the
+  rules are kept for NEXT notes:
+  1. 图文解说: annotate screenshots/emails (arrows/notes on 关键版本号,
+     联系邮箱) to guide eye and hold attention.
+  2. 避坑总结 ending: end tool notes with a 注意事项/避坑总结 para
+     (升级前备份数据 / 注意蓝牙连接状态) — adds实用厚度, extends watch.
+
 **Rules for the skill:**
 1. **Judge a note by its own content type.** Engagement norms differ by
    category — never compare a how-to's 互动率 to a travel note's, or advise
@@ -123,6 +139,51 @@ that is the audience base. 内容丰富度 99th percentile on both notes and the
    people find the note; that's "helping", not traffic-chasing.
 4. Audience tags (海外 98% female 74% for travel; 69% overseas for tech) are
    useful to calibrate future topic choices — not to chase engagement.
+
+---
+
+## 2026-09-03 — Both notes' full XHS AI diagnostic (platform cross-validates methodology)
+
+Ran XHS's built-in AI 笔记诊断 for BOTH notes (all 5 dimensions each).
+The platform's diagnostics — their causes AND their advice — confirm our
+methodology on nearly every point. That's the strongest external validation
+the skill can get (platform AI, not our own analysis):
+
+| Metric | 昆达山 (travel) | Philips (tool) | Platform takeaway |
+|---|---|---|---|
+| 内容丰富度 | **5.0 / 99%** | **4.0 / 99%** | Both 99th pct — doc-style flagged on BOTH |
+| 内容深度 | 23.1s / 88% | 9.0s / 41% | Itinerary slows reading; tool note exits after answer |
+| 互动率 | 9.3% / 72% | 1.2% / 9% | Collect/comments/people-photo vs solve-and-leave |
+| 封面点击率 | 15.2% / 41% | 13.3% / 11% | Platform: use scenery photo cover for travel; bold/contrast for tool |
+| 笔记涨粉 | 0 | 1 | Both independent notes; 人设/系列 is the catch |
+
+**Explicit platform endorsements of the documentation-first style:**
+- 昆达山: 「继续保持这种高信息密度的创作风格」 (时间轴+清单 structure praised)
+- Philips: 「继续保持这种『提出问题-展示证据-给出结果』的清晰结构」(三图逻辑闭环 praised)
+→ Platform AI says KEEP the style for both. That is the strongest signal the
+skill's purpose (记录为主) is on the right track.
+
+**Rules added (cross-validated with our earlier rules):**
+1. **图片标注 rule confirmed by TWO independent diagnostics** (内容深度 +
+   内容丰富度 both建议 箭头/圈注 for tool notes) — already in our rules.
+2. **Cover design differs by content type**: tool notes → 识别 (model+symptom
+   text); travel notes → 视觉冲击 (scenery photo, title overlay). One rule
+   does NOT fit both formats. (This refines the earlier "cover serves
+   recognition" rule — that's the tool-note variant.)
+3. **互动引导 phrasing**: two independent diagnostics suggest文末互动提问
+   ("大家去亚庇最推荐哪家海鲜楼?" / "有遇到类似蓝牙掉线吗?") as the ONLY
+   content-level lever for low-engagement tool notes. Optional for doc-first
+   style — engagement is not a goal; but for notes where interaction matters,
+   a closing question is the cheap, one-line lever.
+4. **人设/系列 is the only growth path** (both diagnostics): 强化「智能家居
+   避坑 xxx」/「旅行攻略无踩雷」标签 + 关联系列笔记. Not a goal for doc-first,
+   but relevant when a series (and the world wants one).
+
+**Note on platform advice vs our principles:** some suggestions conflict with
+doc-first style (加个人感悟/人设标签). Evaluate against the core principle,
+not the metric: advices that help the note HELD its value (structure, saves,
+clarity) → keep. Advices that optimize meta-metrics (涨粉/互动) → optional at
+best. Following the principle, not the algorithm.
 
 ---
 
@@ -152,3 +213,44 @@ months, no analytics (platform threshold). Partial metrics received:
 **Also logged:** this note is the "skill v1 era" baseline. If rewritten with
 current skill rules (search words, cover recognition, 5-sec first image) and
 re-published, it becomes a natural A/B test of the skill's evolution.
+
+---
+
+## 2026-09-06 — Pre-skill control group calibration (skill ≠ reach)
+
+User's 5 pre-skill notes (2024-05 → 2025-12, written WITHOUT the skill) as a
+control group:
+
+| Note | Views | Likes | Saves | 赞率 | 收藏/赞 |
+|---|---|---|---|---|---|
+| pre #1 | 2,046 | 32 | 25 | 1.6% | 0.78 |
+| pre #2 | 5,186 | 44 | 32 | 0.85% | 0.73 |
+| pre #3 | 416 | 2 | 0 | 0.48% | — |
+| pre #4 | 267 | 9 | 1 | 3.4% | 0.11 |
+| pre #5 | 25 | 3 | 0 | —* | — |
+| Philips (skill) | 907 | 7 | 4 | 0.77% | 0.57 |
+| 昆达山 (skill) | 462 | 11 | 20 | 2.4% | **1.8** |
+
+*too small to read
+
+**Honest calibration — corrects the implicit assumption in the Tromsø
+post-mortem that "skill evolution raised the floor":**
+1. **Skill ≠ reach.** The two top-viewed notes EVER (2,046 / 5,186) are both
+   PRE-skill. Topic + feed luck dominate exposure; methodology has no
+   measurable effect on raw views.
+2. **Skill ≠ like-rate.** Both eras sit in the same 0.5–3% band.
+3. **What the skill demonstrably improves:** platform-verified structure
+   quality (内容丰富度 99th pct on both skill notes). The skill raises the
+   note's quality CEILING and makes every note hit the bar consistently —
+   that IS the documentation-first goal (每篇都达标), not one-hit virality.
+4. 昆达山 收藏/赞 1.8 stays the outlier — reference-type content pulls saves
+   (pre-skill best was 0.78).
+5. By reach metrics every note (any era) sits at/below the 及格 line
+   (≈1k views / 100+ likes for 小爆款). The ceiling is TOPIC + no
+   系列/人设 stacking — NOT content quality (platform: 99th pct).
+   When asked "did the skill improve performance?": honest answer = better
+   structure/richness, not reach. Reach is out of the skill's hands.
+
+**When advising on expected outcomes:** never promise views/followers from
+skill-based rewriting. Promise: clearer structure, higher 内容丰富度, better
+saves pull for reference content, and platform-recognized depth.
