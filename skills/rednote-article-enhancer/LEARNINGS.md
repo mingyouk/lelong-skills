@@ -297,3 +297,21 @@ style, not an imposed one.
    concrete prices, date disclaimer, @brand mentions, "会持续更新" closing.
 2. For data/price notes, note the date AND a maintenance cue — evergreen
    notes compound search value; a static price note rots.
+
+## 2026-09-10 — 小红书长文粘贴格式实测：只认列表，不认标题
+
+App 长文编辑器（2026-09 版；格式菜单 = 标题/二级标题/正文/引用 四种），
+控制变量实测（从 .md 文件复制 → 空白长文 → 逐行查格式）：
+
+| 粘贴写法 | 结果 |
+|---|---|
+| `- 文本` | ✅ 圆点列表（分点）— 真实行程行同样 |
+| `1. 文本` | ✅ 数字列表 |
+| `# 文本` / `## 文本` | ❌ 不识别（无自动标题；符号可能原样保留） |
+| `↳ 文本` / 纯文本 | ✅ 正文，原样 |
+
+**规则（写长文草稿时）**：
+1. 节标题写**纯文本行**（不要 `#`）→ 粘贴后手动点「格式」设「标题」
+2. 列表条目用 `- `（圆点）/ `1. `（数字）→ 自动转换
+3. `↳` 子项保持纯文本 → 正文
+4. 别在正文放 `#` —— 旧资料（2026-08 内测期）称 `#` 可用，已过时

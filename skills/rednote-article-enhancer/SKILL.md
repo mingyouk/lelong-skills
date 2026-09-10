@@ -102,21 +102,24 @@ If no, skip it.
 **Long-form notes（长文）:**
 
 Use the 长文 format when content exceeds roughly 1000 characters — too long
-for a regular image-text post. Platform constraints (per 2026.08 information,
-（以实际编辑器为准）):
+for a regular image-text post. Platform constraints (per 2026.08 info;
+paste syntax field-verified 2026.09):
 
 - Title ≤20 chars — same limit as regular posts
 - Body up to 6000 characters, including spaces
-- Partial Markdown supported — `#` subheadings, `-` lists
+- Paste-recognized syntax (field-verified 2026-09): `- ` → bullet list,
+  `1. ` → numbered list. **`#` / `##` are NOT recognized** — no auto
+  headings; set 标题/二级标题 manually via the 格式 button after pasting.
 - 「一键排版」 auto-splits the long-form into an image sequence; up to 10
   images per post （未经验证）
 - Music not supported （未经验证）
 
 Formatting:
-- Use Markdown `#` subheadings instead of `━━━━━━━━━━━━━━` dividers; use `-`
-  lists instead of `·` bullets
-- Keep double empty lines between sections as insurance in case the editor
-  strips them （未经验证）
+- Section headers: **plain text lines** (no `#` — it won't convert and may
+  ship literally); set them to 标题 via the 格式 button after pasting
+- List items: `- ` (auto-converts to 分点); `↳` / plain lines stay body text
+- No `━━━━━━━━━━━━━━` dividers in 长文
+- Keep double empty lines between sections as insurance （未经验证）
 
 The relaxed length limit doesn't change content principles — concise writing,
 no fabricated details, time-sensitive disclaimers, and functional emoji all
