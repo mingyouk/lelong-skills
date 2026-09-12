@@ -1,11 +1,14 @@
 ---
-name: 4K-old-photo-portrait-restoration
+name: old-photo-portrait-restoration
 description: >
   Use when the user asks to restore, repair, enhance, or upscale old family
   photos or portraits — including fixing scratches, tears, stains, fading,
   blur, or discoloration in vintage photographs. Do NOT load for AI-generated
   images, modern digital photo editing, colorization of B&W photos without
   explicit user request, or non-portrait landscape restoration.
+# dsh invocation policy (CC ignores these — verified 2026-09-07; dsh is fail-closed)
+disable-model-invocation: true   # model must NOT auto-invoke; only on explicit user request
+user-invocable: true              # user may invoke explicitly (e.g. /skill)
 ---
 
 # 4K 超清老照片人像精准还原修复术

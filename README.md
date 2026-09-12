@@ -12,7 +12,7 @@ Photo restoration, enhancement, and upscaling.
 
 | Skill | Description |
 |-------|-------------|
-| [4K-old-photo-portrait-restoration](./skills/media/4K-old-photo-portrait-restoration/SKILL.md) | Restore old family portrait photos to 4K with strict fidelity to originals |
+| [old-photo-portrait-restoration](./skills/media/old-photo-portrait-restoration/SKILL.md) | Restore old family portrait photos to 4K with strict fidelity to originals |
 
 ### 📕 RedNote
 Content creation and enhancement for 小红书 / Xiaohongshu.
